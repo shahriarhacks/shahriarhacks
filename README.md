@@ -1,7 +1,7 @@
 ![I am Web Developer and Entrepreneur.](https://scontent.fdac1-1.fna.fbcdn.net/v/t39.30808-6/297872844_150060307626987_3023444307579370160_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=19026a&_nc_eui2=AeHB7DNBqEW_K5oINFqe2uGV4nl_rQaUbLTieX-tBpRstH1IQe0U-WXfFV6yRxlzsjgqkCXwZ9V9UXoONKFoHg1U&_nc_ohc=AexNOsErKkMAX9zqfYM&_nc_oc=AQlNjNPpEWpGR5aPq0x7tWvOJRNPgJjnH3hHNwsNVFBhomJb_0CShRlaQryfObooD84&_nc_zt=23&_nc_ht=scontent.fdac1-1.fna&oh=00_AT86udRwjyv_wURk41h9hd014tBbDphix2OauhFBr4g_uA&oe=63282CD2)
 
-## Hi there 👋, my name is Shahriar Ahmed (Shifat)
-#### I am Web Developer and Entrepreneur.
+# Hi there 👋, My name is Shahriar Ahmed (Shifat)
+### I am Web Developer and Entrepreneur.
 Hi I am Shahriar Ahmed (Shifat).
 I am a student besides I am a Web Developer and Entrepreneur.
 Basically I am also a learner.
