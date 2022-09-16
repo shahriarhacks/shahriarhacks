@@ -9,14 +9,13 @@
 [<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://linkedin.com/in/dev-shifat)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://facebook.com/Entrepreneur.sast)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/Dev_Shifat)
 
 
-
 <br />
 
 # :eyes: Current overview:
 
 <div align="left">
 <a href="https://app.daily.dev/Dev_Shifat"><img align="right" src="https://scontent.fdac1-1.fna.fbcdn.net/v/t39.30808-6/282317643_131543876145297_1210995038435994090_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=174925&_nc_eui2=AeH9e1zV5mX45GgiYbD5UJMFDUr_Epg6b5ENSv8SmDpvkb8MD9r3K2AVXHfj76nN5Ra_mfD586bvuhPU1A4Gtk2_&_nc_ohc=6MPwhTMhj00AX82Nrkc&_nc_zt=23&_nc_ht=scontent.fdac1-1.fna&oh=00_AT_FlRDCCkRu2_hHOBYCTDK8ronfD6qLnlaUnC8HWJt8Bw&oe=632A177F" width="300" alt="Shahriar Ahmed"/></a>
-</div><br/>
+</div>
 
 ### 💫 I’m the Founder & CEO - In OffCarry & FinenPay. 
 ### 🔭 I’m working - In OffCarry & FinenPay. 
