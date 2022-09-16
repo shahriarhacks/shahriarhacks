@@ -16,7 +16,7 @@
 
 <div align="left">
 <a href="https://app.daily.dev/Dev_Shifat"><img align="right" src="https://scontent.fdac1-1.fna.fbcdn.net/v/t39.30808-6/282317643_131543876145297_1210995038435994090_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=174925&_nc_eui2=AeH9e1zV5mX45GgiYbD5UJMFDUr_Epg6b5ENSv8SmDpvkb8MD9r3K2AVXHfj76nN5Ra_mfD586bvuhPU1A4Gtk2_&_nc_ohc=6MPwhTMhj00AX82Nrkc&_nc_zt=23&_nc_ht=scontent.fdac1-1.fna&oh=00_AT_FlRDCCkRu2_hHOBYCTDK8ronfD6qLnlaUnC8HWJt8Bw&oe=632A177F" width="300" alt="Shahriar Ahmed"/></a>
-</div>
+</div><br/>
 
 ### 💫 I’m the Founder & CEO - In OffCarry & FinenPay. 
 ### 🔭 I’m working - In OffCarry & FinenPay. 
@@ -50,8 +50,8 @@
  -->
 # 📊 GitHub Stats:
 
-<p><img width="350" height="200" align="left" src="https://github-readme-stats.vercel.app/api?username=Dev-Shifat&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Shahriar Ahmed" /></p> 
-<p>&nbsp;<img width="410" height="200" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Shifat&theme=dark&hide_border=false" alt="Shahriar Ahmed" /></p><br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Dev-Shifat&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Shahriar Ahmed" /></p> 
+<p>&nbsp;<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Shifat&theme=dark&hide_border=false" alt="Shahriar Ahmed" /></p><br/> <br/>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Shifat&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Shahriar Ahmed"/> </p> 
 
 
