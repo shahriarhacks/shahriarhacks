@@ -22,20 +22,20 @@
 
 <h1 align="center"> :eyes: Current overview</h1>
 <div align="left">
-<a href="https://app.daily.dev/shahriar7ahmed"><img align="right" src="https://api.daily.dev/devcards/749f0a0be71b4102b3e0d6263539c7da.png?r=6bs" width="300" alt="Shahriar Ahmed"/></a>
+<a href="https://app.daily.dev/shahriar7ahmed"><img  align="right" src="https://api.daily.dev/devcards/749f0a0be71b4102b3e0d6263539c7da.png?r=6bs" width="300" alt="Shahriar Ahmed"/></a>
 </div>
 
-### 💫 I’m the Founder & CEO - In OffCarry & FinenPay. 
-### 🔭 I’m working - In OffCarry & FinenPay. 
-### 🌱 I’m exploring - Web & App. 
-### 👯 I’m looking - To collaborate on open source projects. 
-### 🤔 I’m trying - To help people learn web & app development. 
-### ⚡ Fun fact - I know I am mad and my madness is my Power.
+#### 💫 I’m the Founder & CEO - In OffCarry & FinenPay. 
+#### 🔭 I’m working - In OffCarry & FinenPay. 
+#### 🌱 I’m exploring - Web & App. 
+#### 👨‍💻 All of my projects are available at [https://shahriar7ahmed.com](https://shahriar7hmed.com/)
+<!-- #### 📝 I regularly write articles on [https://Dev-Shifat.medium.com/](https://de.medium.com/) -->
+#### 💬 Ask me about **JavaScript, Node.js, React.js, Express.js, mongoDB, MySQL**
+#### 📫 How to reach me **shahriar@offcarry.com**
+#### 👯 I’m looking - To collaborate on open source projects. 
+#### 🤔 I’m trying - To help people learn web & app development. 
+#### ⚡ Fun fact - I know I am mad and my madness is my Power.
 
-
-<br />
-<br/>
-<br/>
 <br/>
 <h1 align="center">💻Languages and Tools</h1>
 
