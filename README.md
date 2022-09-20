@@ -1,5 +1,5 @@
 
-<img width="100%" src="https://scontent.fcgp1-1.fna.fbcdn.net/v/t39.30808-6/299975884_153232850643066_7251178968452358384_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=19026a&_nc_eui2=AeGQEBnumVaIh2aEBHHAa3hblWwr4zJuqn2VbCvjMm6qfR6AZfJuqboxFEHeZE8quBfQbjH-8KvDoYS0IMMvnvJw&_nc_ohc=6QhU7OadDuUAX96VobQ&_nc_zt=23&_nc_ht=scontent.fcgp1-1.fna&oh=00_AT9wE9Z5wkU1kJd3W5RY-MLkiiY3EBaFsFm4zmdaXXcm7Q&oe=632EF7F1" alt="Shahriar Ahmed"/>
+<img width="100%" src="https://scontent.fcgp1-1.fna.fbcdn.net/v/t39.30808-6/306137988_157957596837258_5797081432689998042_n.jpg?stp=dst-jpg_p640x640&_nc_cat=105&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeGXMLUFOiQTGKc3cEfyF2BQllxPbb9RORGWXE9tv1E5EUB_BZ9giIYmVf3N6W25mOVevLl2GiU8AU7-Hx33OK1W&_nc_ohc=NTLl3f9SYWsAX9xjE75&_nc_zt=23&_nc_ht=scontent.fcgp1-1.fna&oh=00_AT_fPd-EsR_cPAT6sc09n3QGol_vp2fx7CCJR3BKUBpOgg&oe=632EB4F4" alt="Shahriar Ahmed"/>
  <p align="center"><img src="https://gpvc.arturio.dev/Dev-Shifat" alt="Shahriar Ahmed"/> </p>  
 
 
@@ -22,7 +22,7 @@
 
 <h1 align="center"> :eyes: Current overview</h1>
 <div align="left">
-<a href="https://app.daily.dev/shahriar7ahmed"><img  align="right" src="https://api.daily.dev/devcards/749f0a0be71b4102b3e0d6263539c7da.png?r=6bs" width="300" alt="Shahriar Ahmed"/></a>
+<a href="https://app.daily.dev/shahriar7ahmed"><img  align="right" src="https://api.daily.dev/devcards/749f0a0be71b4102b3e0d6263539c7da.png?r=5tt" width="300" alt="Shahriar Ahmed"/></a>
 </div>
 
 #### 💫 I’m the Founder & CEO - In OffCarry & FinenPay. 
