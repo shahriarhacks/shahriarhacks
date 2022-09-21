@@ -22,7 +22,7 @@
 
 <h1 align="center"> :eyes: Current overview</h1>
 <div align="left">
-<a href="https://app.daily.dev/shahriar7ahmed"><img  align="right" src="https://api.daily.dev/devcards/749f0a0be71b4102b3e0d6263539c7da.png?r=k1o" width="300" alt="Shahriar Ahmed"/></a>
+<a href="https://app.daily.dev/shahriar7ahmed"><img  align="right" src="https://api.daily.dev/devcards/749f0a0be71b4102b3e0d6263539c7da.png" width="300" alt="Shahriar Ahmed"/></a>
 </div>
 
 #### 💫 I’m the Founder & CEO - In OffCarry & FinenPay. 
