@@ -38,7 +38,7 @@
 <br/>
 <h1 align="center">💻Languages and Tools</h1>
 
- <p align="center"><img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Shifat&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Shahriar Ahmed"/> </p>
+ <p align="center"><img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriar7ahmed&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Shahriar Ahmed"/> </p>
 
 <br>
 <p align="center">
