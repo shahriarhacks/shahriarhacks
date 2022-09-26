@@ -28,7 +28,7 @@
 #### 🔭 I’m working - In OffCarry & FinenPay. 
 #### 🌱 I’m exploring - Web & App. 
 #### 👨‍💻 All of my projects are available at [https://shahriar7ahmed.com](https://shahriar7hmed.com/)
-#### 📝 I regularly write articles on [https://shahriar7ahmed.medium.com/](https://de.medium.com/)
+#### 📝 I regularly write articles on [https://shahriar7ahmed.medium.com/](https://shahriar7ahmed.medium.com/)
 #### 💬 Ask me about **JavaScript, Node.js, React.js, Express.js, mongoDB, MySQL**
 #### 📫 How to reach me **shahriar@offcarry.com**
 #### 👯 I’m looking - To collaborate on open source projects. 
