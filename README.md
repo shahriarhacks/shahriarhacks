@@ -38,9 +38,10 @@
 <br/>
 
 <h1 align="center">💻Languages and Tools💻</h1>
+<!--
+ <p align="center"><img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriar7ahmed&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Shahriar Ahmed"/> </p> -->
 
- <p align="center"><img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriar7ahmed&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Shahriar Ahmed"/> </p>
-
+ <p align="center"><img width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriar7ahmed&show_icons=true&locale=en&layout=compact" alt="Shahriar Ahmed"/>
 <br>
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/512px-HTML5_Badge.svg.png?20110131171049" width="55"/>
