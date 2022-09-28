@@ -1,9 +1,9 @@
 
-<img width="100%" src="https://scontent.fcgp1-1.fna.fbcdn.net/v/t39.30808-6/306137988_157957596837258_5797081432689998042_n.jpg?stp=dst-jpg_p640x640&_nc_cat=105&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeGXMLUFOiQTGKc3cEfyF2BQllxPbb9RORGWXE9tv1E5EUB_BZ9giIYmVf3N6W25mOVevLl2GiU8AU7-Hx33OK1W&_nc_ohc=NTLl3f9SYWsAX9xjE75&_nc_zt=23&_nc_ht=scontent.fcgp1-1.fna&oh=00_AT_fPd-EsR_cPAT6sc09n3QGol_vp2fx7CCJR3BKUBpOgg&oe=632EB4F4" alt="Shahriar Ahmed"/>
+<img width="100%" src="https://media-exp1.licdn.com/dms/image/D5616AQHSaDi83yIkrg/profile-displaybackgroundimage-shrink_200_800/0/1664253146102?e=1669852800&v=beta&t=OuOV_rLJgXU50_uPXabs2irfwBBAVHz1CNYxAqdeUc4" alt="Shahriar Ahmed"/>
  <p align="center"><img src="https://gpvc.arturio.dev/shahriar7ahmed" alt="Shahriar Ahmed"/> </p>  
 
 
-<h1 align="center"> :mailbox: Reach me out</h1>
+<h1 align="center"> :mailbox: Reach me out :mailbox:</h1>
 <br />
 
 [<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://linkedin.com/in/shahriar7ahmed)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://facebook.com/shahriar7ahmed)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/shahriar7ahmed)
@@ -12,14 +12,14 @@
 <br />
 
 
-<h2 align="center">🌐 Socials</h2>
+<h2 align="center">🌐Socials🌐</h2>
 
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shahriar7ahmed)  [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/shahriar7ahmed)[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/shahriar7ahmed) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ACU7XNPJHj) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shahriar7ahmed) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19964686) 
 
 <br/>
 
 
-<h1 align="center"> :eyes: Current overview</h1>
+<h1 align="center"> :eyes: Current overview :eyes:</h1>
 <div align="left">
 <a href="https://app.daily.dev/shahriar7ahmed"><img  align="right" src="https://api.daily.dev/devcards/749f0a0be71b4102b3e0d6263539c7da.png?r=8pn" width="300" alt="Shahriar Ahmed"/></a>
 </div>
@@ -36,7 +36,8 @@
 #### ⚡ Fun fact - I know I am mad and my madness is my Power.
 
 <br/>
-<h1 align="center">💻Languages and Tools</h1>
+
+<h1 align="center">💻Languages and Tools💻</h1>
 
  <p align="center"><img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriar7ahmed&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Shahriar Ahmed"/> </p>
 
