@@ -7,7 +7,7 @@
 <br />
 
 <div align="center">
-<a href="https://linkedin.com/in/shahriar7ahmed/" targeet:"_blank"> <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png"></a>
+<a href="https://linkedin.com/in/shahriar7ahmed/" target:"_blank"> <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png"></a>
 <a href="https://facebook.com/shahriar7ahmed"> <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png"></a>
 <a href="https://twitter.com/shahriar7ahmed"> <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"></a>
 
@@ -40,8 +40,7 @@
 <br/>
 
 <h1 align="center">💻Languages and Tools💻</h1>
-<!--
- <p align="center"><img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriar7ahmed&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Shahriar Ahmed"/> </p> -->
+
 
  <p align="center"><img width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriar7ahmed&show_icons=true&locale=en&layout=compact" alt="Shahriar Ahmed"/>
 <br>
