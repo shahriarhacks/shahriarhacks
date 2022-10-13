@@ -61,7 +61,7 @@
 <p align="center"><img width="450" src="https://github-readme-stats.vercel.app/api?username=shahriar7ahmed&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" alt="Shahriar Ahmed"/> </p>
 
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=shahriar7ahmed&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Shahriar Ahmed"/> </p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=shahriar7ahmed&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Shahriar Ahmed"/> </p>
 
 
 
