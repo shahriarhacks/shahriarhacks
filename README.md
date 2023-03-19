@@ -8,7 +8,7 @@
 
 <div align="center">
 <a href="https://linkedin.com/in/shahriar7ahmed/"> <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png"></a>
-<a href="https://facebook.com/shahriar7ahmed"> <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png"></a>
+<a href="https://facebook.com/shifat.talukd"> <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png"></a>
 <a href="https://twitter.com/shahriar7ahmed"> <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"></a>
 
 <br />
