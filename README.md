@@ -50,7 +50,8 @@
 <img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" width="55"/>
 <img src="https://viget.imgix.net/tailwind-on-gray.png?auto=format%2Ccompress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&ixlib=php-2.1.1&q=90&w=1200&s=d45cb3d7233ce6e0b46f131c660d5adb" width="55"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png"  width="55"/>
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"  width="55"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"  width="55"/>
+ <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/psf/trademarks-faq/Python-logo-notext-rotate.png"  width="55"/>
 <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png"  width="55"/>
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png"  width="55"/>
 <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png"  width="55"/>
