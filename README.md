@@ -48,13 +48,14 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/512px-HTML5_Badge.svg.png?20110131171049" width="55"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" width="55"/>
 <img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" width="55"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="55"/>
- <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png"  width="55"/>
- <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png"  width="55"/>
-<img src="https://cdn-icons-png.flaticon.com/512/919/919825.png"  width="55"/>
+<img src="https://viget.imgix.net/tailwind-on-gray.png?auto=format%2Ccompress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&ixlib=php-2.1.1&q=90&w=1200&s=d45cb3d7233ce6e0b46f131c660d5adb" width="55"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png"  width="55"/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"  width="55"/>
+<img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png"  width="55"/>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png"  width="55"/>
 <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png"  width="55"/>
-<img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png"  width="55"/>
-<img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png"  width="55"/>
+<img src="https://w7.pngwing.com/pngs/429/921/png-transparent-mongodb-plain-wordmark-logo-icon.png"  width="55"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png"  width="55"/>
 </p><br/>
 
 <h1 align="center">📊 GitHub Stats &  GitHub Trophies🏆</h1>
