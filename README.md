@@ -7,16 +7,16 @@
 <br />
 
 <div align="center">
-<a href="https://linkedin.com/in/shahriar7ahmed/"> <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png"></a>
-<a href="https://facebook.com/shifat.talukd"> <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png"></a>
-<a href="https://twitter.com/shahriar7ahmed"> <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"></a>
+<a href="https://linkedin.com/in/shahriar0ahmed/"> <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png"></a>
+<a href="https://facebook.com/shahriar0ahmed"> <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png"></a>
+<a href="https://twitter.com/shahriar0ahmed"> <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"></a>
 
 <br />
 
 
 <h2 align="center">🌐Socials🌐</h2>
 
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shahriar7ahmed)  [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/shahriar7ahmed)[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/shahriar7ahmed) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ACU7XNPJHj) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shahriar7ahmed) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19964686) 
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shahriar0ahmed)  [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/shahriar0ahmed)[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/shahriar0ahmed) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ACU7XNPJHj) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shahriar0ahmed) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19964686) 
 
 <br/>
 
@@ -60,14 +60,14 @@
 </p><br/>
 
 <h1 align="center">📊 GitHub Stats &  GitHub Trophies🏆</h1>
-<p align="center"><img width="450" src="https://github-readme-stats.vercel.app/api?username=shahriar7ahmed&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" alt="Shahriar Ahmed"/> </p>
+<p align="center"><img width="450" src="https://github-readme-stats.vercel.app/api?username=shahriar0ahmed&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" alt="Shahriar Ahmed"/> </p>
 
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=shahriar7ahmed&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Shahriar Ahmed"/> </p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=shahriar0ahmed&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Shahriar Ahmed"/> </p>
 
 
 
- <p align="center"><img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=shahriar7ahmed&theme=gotham&hide_border=false" alt="Shahriar Ahmed"/> </p>
+ <p align="center"><img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=shahriar0ahmed&theme=gotham&hide_border=false" alt="Shahriar Ahmed"/> </p>
 
 <!-- <p align="center"><img width="450" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Shahriar Ahmed"/> </p> -->
 
