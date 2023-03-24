@@ -1,6 +1,6 @@
 
 <img width="100%" src="https://i.ibb.co/5sNxGNj/IMG-20220925-232405.jpg" alt="Shahriar Ahmed"/>
- <p align="center"><img src="https://gpvc.arturio.dev/shahriar7ahmed" alt="Shahriar Ahmed"/> </p>  
+ <p align="center"><img src="https://gpvc.arturio.dev/shahriar0ahmed" alt="Shahriar Ahmed"/> </p>  
 
 
 <h1 align="center"> :mailbox: Reach me out :mailbox:</h1>
