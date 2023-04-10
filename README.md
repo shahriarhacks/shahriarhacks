@@ -42,7 +42,7 @@
 <h1 align="center">💻Languages and Tools💻</h1>
 
 
- <p align="center"><img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriar0ahmed&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Shahriar Ahmed"/>
+ <p align="center"><img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsast&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Shahriar Ahmed"/>
 <br>
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/512px-HTML5_Badge.svg.png?20110131171049" width="55"/>
@@ -60,14 +60,14 @@
 </p><br/>
 
 <h1 align="center">📊 GitHub Stats &  GitHub Trophies🏆</h1>
-<p align="center"><img width="450" src="https://github-readme-stats.vercel.app/api?username=shahriar0ahmed&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" alt="Shahriar Ahmed"/> </p>
+<p align="center"><img width="450" src="https://github-readme-stats.vercel.app/api?username=iamsast&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" alt="Shahriar Ahmed"/> </p>
 
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=shahriar0ahmed&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Shahriar Ahmed"/> </p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=iamsast&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Shahriar Ahmed"/> </p>
 
 
 
- <p align="center"><img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=shahriar0ahmed&theme=gotham&hide_border=false" alt="Shahriar Ahmed"/> </p>
+ <p align="center"><img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsast&theme=gotham&hide_border=false" alt="Shahriar Ahmed"/> </p>
 
 <!-- <p align="center"><img width="450" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Shahriar Ahmed"/> </p> -->
  <p align="center"><img src="https://gpvc.arturio.dev/iamsast" alt="Shahriar Ahmed"/> </p>  
