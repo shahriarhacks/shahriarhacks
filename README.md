@@ -30,7 +30,7 @@
 #### 🔭 I’m working - In OffCarry & FinenPay. 
 #### 🌱 I’m exploring - Web & App. 
 #### 👨‍💻 All of my projects are available at are now unavailabe
-#### 📝 I regularly write articles on [https://iamsast.medium.com/](https://ourmsast.medium.com/)
+#### 📝 I regularly write articles on [https://oumsast.medium.com/](https://ourmsast.medium.com/)
 #### 💬 Ask me about **JavaScript, Node.js, React.js, Express.js, mongoDB, MySQL**
 #### 📫 How to reach me **shahriar@offcarry.com**
 #### 👯 I’m looking - To collaborate on open source projects. 
@@ -70,7 +70,7 @@
  <p align="center"><img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=ourmsast&theme=gotham&hide_border=false" alt="Shahriar Ahmed"/> </p>
 
 <!-- <p align="center"><img width="450" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Shahriar Ahmed"/> </p> -->
- <p align="center"><img src="https://gpvc.arturio.dev/iamsast" alt="Shahriar Ahmed"/> </p>  
+ <p align="center"><img src="https://gpvc.arturio.dev/oursast" alt="Shahriar Ahmed"/> </p>  
 
 
 
