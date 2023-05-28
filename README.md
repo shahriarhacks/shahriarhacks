@@ -7,16 +7,16 @@
 <br />
 
 <div align="center">
-<a href="https://linkedin.com/in/ourmsast"> <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png"></a>
-<a href="https://facebook.com/ourmsast"> <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png"></a>
-<a href="https://twitter.com/ourmsast"> <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"></a>
+<a href="https://linkedin.com/in/ourshahriar"> <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png"></a>
+<a href="https://facebook.com/ourShahriar"> <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png"></a>
+<a href="https://twitter.com/ourShahriar"> <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"></a>
 
 <br />
 
 
 <h2 align="center">🌐Socials🌐</h2>
 
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ourmsast)  [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ourmsast)[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://be.net/ourmsast) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ACU7XNPJHj) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ourmsast) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19964686) 
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ourshahriar)  [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ourShahriar)[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://be.net/ourshahriar) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ACU7XNPJHj) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ourshahriar) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19964686) 
 
 <br/>
 
@@ -30,7 +30,7 @@
 #### 🔭 I’m working - In OffCarry & FinenPay. 
 #### 🌱 I’m exploring - Web & App. 
 #### 👨‍💻 All of my projects are available at are now unavailabe
-#### 📝 I regularly write articles on [https://oumsast.medium.com/](https://ourmsast.medium.com/)
+#### 📝 I regularly write articles on [https://ourshahriar.medium.com/](https://ourshahriar.medium.com/)
 #### 💬 Ask me about **JavaScript, Node.js, React.js, Express.js, mongoDB, MySQL**
 #### 📫 How to reach me **shahriar@offcarry.com**
 #### 👯 I’m looking - To collaborate on open source projects. 
@@ -42,7 +42,7 @@
 <h1 align="center">💻Languages and Tools💻</h1>
 
 
- <p align="center"><img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ourmsast&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Shahriar Ahmed"/>
+ <p align="center"><img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ourShahriar&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Shahriar Ahmed"/>
 <br>
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/512px-HTML5_Badge.svg.png?20110131171049" width="55"/>
@@ -60,17 +60,17 @@
 </p><br/>
 
 <h1 align="center">📊 GitHub Stats &  GitHub Trophies🏆</h1>
-<p align="center"><img width="450" src="https://github-readme-stats.vercel.app/api?username=ourmsast&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" alt="Shahriar Ahmed"/> </p>
+<p align="center"><img width="450" src="https://github-readme-stats.vercel.app/api?username=ourShahriar&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" alt="Shahriar Ahmed"/> </p>
 
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=ourmsast&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Shahriar Ahmed"/> </p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=ourShahriar&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Shahriar Ahmed"/> </p>
 
 
 
- <p align="center"><img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=ourmsast&theme=gotham&hide_border=false" alt="Shahriar Ahmed"/> </p>
+ <p align="center"><img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=ourShahriar&theme=gotham&hide_border=false" alt="Shahriar Ahmed"/> </p>
 
 <!-- <p align="center"><img width="450" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Shahriar Ahmed"/> </p> -->
- <p align="center"><img src="https://gpvc.arturio.dev/oursast" alt="Shahriar Ahmed"/> </p>  
+ <p align="center"><img src="https://gpvc.arturio.dev/ourShahriar" alt="Shahriar Ahmed"/> </p>  
 
 
 
