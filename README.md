@@ -70,7 +70,7 @@
  <p align="center"><img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=ourShahriar&theme=gotham&hide_border=false" alt="Shahriar Ahmed"/> </p>
 
 <!-- <p align="center"><img width="450" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Shahriar Ahmed"/> </p> -->
- <p align="center"><img src="https://gpvc.arturio.dev/ourShahriar" alt="Shahriar Ahmed"/> </p>  
+ <p align="center"><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FourShahriar&s=40&c=ff00c8&bg=ffffff&no=7&ff=digii&tb=Profile++++++&ta=++++++++Visitors%21" alt="Shahriar Ahmed"/> </p>  
 
 
 
