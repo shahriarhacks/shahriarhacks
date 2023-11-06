@@ -1,5 +1,5 @@
 
-<img width="100%" src="https://i.ibb.co/5sNxGNj/IMG-20220925-232405.jpg" alt="Shahriar Ahmed"/>
+<img width="100%" src="https://i.ibb.co/KNgHS0R/No-pain-No-gain-Life-is-nothing-without-struggle-1.jpg" alt="Shahriar Ahmed"/>
  <p align="center"><img src="https://komarev.com/ghpvc/?username=ourShahriar&color=ff69b4&style=for-the-badge" alt="Shahriar Ahmed"/> </p>  
 
 
