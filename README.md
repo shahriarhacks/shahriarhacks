@@ -3,38 +3,38 @@
  <p align="center"><img src="https://komarev.com/ghpvc/?username=ourShahriar&color=ff69b4&style=for-the-badge" alt="Shahriar Ahmed"/> </p>  
 
 
-<h1 align="center"> :mailbox: Reach me out :mailbox:</h1>
+<h1 align="center"> 💬 Reach me out 💬 </h1>
 <br />
 
 <div align="center">
-<a href="https://linkedin.com/in/yourshahriar"> <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png"></a>
-<a href="https://facebook.com/ourShahriar"> <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png"></a>
-<a href="https://twitter.com/ourShahriar"> <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"></a>
+<a href="https://linkedin.com/in/itszshahriar"> <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png"></a>
+<a href="https://facebook.com/itszshahriar"> <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png"></a>
+<a href="https://twitter.com/itszshahriar"> <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"></a>
 
 <br />
 
 
 <h2 align="center">🌐Socials🌐</h2>
 
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ourshahriar)  [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ourShahriar)[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://be.net/ourShahriar) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ACU7XNPJHj) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ourshahriar) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19964686) 
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itszshahriar)  [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/itszshahriar)[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://be.net/itszshahriar) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ACU7XNPJHj) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@itszshahriar) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19964686) 
 
 <br/>
 
 
-<h1 align="center"> :eyes: Current overview :eyes:</h1>
+<h1 align="center"> 👀 Current overview 👀 </h1>
 <div align="left">
 <img  align="right" src="https://i.ibb.co/WvwcMHy/HRD-SAF.jpg" width="300" alt="Shahriar Ahmed"/>
 </div>
 
-#### 💫 I’m the Founder & CEO - In OffCarry & FinenPay. 
-#### 🔭 I’m working - In OffCarry & FinenPay. 
-#### 🌱 I’m exploring - Web & App. 
-#### 👨‍💻 All of my projects are available at are now unavailabe
-#### 📝 I regularly write articles on [https://ourshahriar.medium.com/](https://ourshahriar.medium.com/)
-#### 💬 Ask me about **JavaScript, Node.js, React.js, Express.js, mongoDB, MySQL**
-#### 📫 How to reach me **shahriar@offcarry.com**
+#### 💫 I’m the Full-Stack Web Developer based JavaScript & TypeScript.
+#### 🔭 I’m working at my Project. 
+#### 🌱 I’m exploring - Next Level Technologies and Python. 
+#### 👨‍💻 All of my projects are available at [https://our-shahriar.web.app/](https://our-shahriar.web.app/)
+#### 📝 I regularly write articles on [https://itszshahriar.medium.com/](https://itszshahriar.medium.com/)
+#### 💬 Ask me about **JavaScript, TypeScript**
+#### 📫 How to reach me **ourshahriar@gmail.com**
 #### 👯 I’m looking - To collaborate on open source projects. 
-#### 🤔 I’m trying - To help people learn web & app development. 
+#### 🤔 I’m trying - To help people learn web developing. 
 #### ⚡ Fun fact - I know I am mad and my madness is my Power.
 
 <br/>
@@ -42,7 +42,7 @@
 <h1 align="center">💻Languages and Tools💻</h1>
 
 
- <p align="center"><img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ourShahriar&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Shahriar Ahmed"/>
+ <p align="center"><img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itszshahriar&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Shahriar Ahmed"/>
 <br>
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/512px-HTML5_Badge.svg.png?20110131171049" width="55"/>
@@ -60,19 +60,19 @@
 </p><br/>
 
 <h1 align="center">📊 GitHub Stats &  GitHub Trophies🏆</h1>
-<p align="center"><img width="450" src="https://github-readme-stats.vercel.app/api?username=ourShahriar&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" alt="Shahriar Ahmed"/> </p>
+<p align="center"><img width="450" src="https://github-readme-stats.vercel.app/api?username=itszshahriar&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" alt="Shahriar Ahmed"/> </p>
 
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=ourShahriar&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Shahriar Ahmed"/> </p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=itszshahriar&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Shahriar Ahmed"/> </p>
 
 
 
- <p align="center"><img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=ourShahriar&theme=gotham&hide_border=false" alt="Shahriar Ahmed"/> </p>
+ <p align="center"><img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=itszshahriar&theme=gotham&hide_border=false" alt="Shahriar Ahmed"/> </p>
 
 <!-- <p align="center"><img width="450" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Shahriar Ahmed"/> </p>
  <p align="center"><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FourShahriar&s=40&c=ff00c8&bg=ffffff&no=7&ff=digii&tb=Profile++++++&ta=++++++++Visitors%21" alt="Shahriar Ahmed"/> </p>   -->
 
- <p align="center"><img src="https://visit-counter.vercel.app/counter.png?page=ourShahriar&s=40&c=00ff00&bg=00000000&no=7&ff=digi&tb=Views++++&ta=" alt="Shahriar Ahmed"/> </p>  
+ <p align="center"><img src="https://visit-counter.vercel.app/counter.png?page=itszshahriar&s=40&c=00ff00&bg=00000000&no=7&ff=digi&tb=Views++++&ta=" alt="Shahriar Ahmed"/> </p>  
 
 
 
