@@ -1,6 +1,6 @@
 
 <img width="100%" src="https://i.ibb.co/qR2Nqhy/cover.jpg" alt="Shahriar Ahmed"/>
- <p align="center"><img src="https://komarev.com/ghpvc/?username=ourShahriar&color=ff69b4&style=for-the-badge" alt="Shahriar Ahmed"/> </p>  
+ <p align="center"><img src="https://komarev.com/ghpvc/?username=itszhahriar&color=ff69b4&style=for-the-badge" alt="Shahriar Ahmed"/> </p>  
 
 
 <h1 align="center"> 💬 Reach me out 💬 </h1>
@@ -32,7 +32,7 @@
 #### 👨‍💻 All of my projects are available at [https://itszshahriar.web.app/](https://itszshahriar.web.app/)
 #### 📝 I regularly write articles on [https://itszshahriar.medium.com/](https://itszshahriar.medium.com/)
 #### 💬 Ask me about **JavaScript, TypeScript**
-#### 📫 How to reach me **ourshahriar@gmail.com**
+#### 📫 How to reach me **itszshahriar@gmail.com**
 #### 👯 I’m looking - To collaborate on open source projects. 
 #### 🤔 I’m trying - To help people learn web developing. 
 #### ⚡ Fun fact - I know I am mad and my madness is my Power.
