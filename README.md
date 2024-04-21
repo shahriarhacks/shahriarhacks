@@ -1,78 +1,99 @@
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
+Nice to meet you, I'm SHAHRIAR AHMED sᴘʏ
 <img width="100%" src="https://i.ibb.co/qR2Nqhy/cover.jpg" alt="Shahriar Ahmed"/>
- <p align="center"><img src="https://komarev.com/ghpvc/?username=itszhahriar&color=ff69b4&style=for-the-badge" alt="Shahriar Ahmed"/> </p>  
 
+## Who Am I? 🤠
 
-<h1 align="center"> 💬 Reach me out 💬 </h1>
-<br />
+- 🤓 Self taught sᴘʏ Developer
+- 👩‍💻 Working on Web & App Development 
+- 📝 Writing Words, Compiling Code
+- 🎯 Goal : To be a better Developer and Problem solver
+- 📫 How to reach me : [spy@ecoysoft.com](mailto:spy@ecoysoft.com)
+- 💌 Fun Facts : 
+    - Loves food but can't' cook 🐼 
+    - Overthinks thinking to not to overthink 🙂
+    - Hayat nedir, canım? ( Ahh, Learning Turkish out of curiosity ) 🙃
 
-<div align="center">
-<a href="https://linkedin.com/in/itszshahriar"> <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png"></a>
-<a href="https://facebook.com/itszshahriar"> <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png"></a>
-<a href="https://twitter.com/itszshahriar"> <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"></a>
-
-<br />
-
-
-<h2 align="center">🌐Socials🌐</h2>
-
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itszshahriar)  [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/itszshahriar)[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://be.net/itszshahriar) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/invite/WjsUzFDX) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@itszshahriar) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19964686) 
-
-<br/>
-
-
-<h1 align="center"> 👀 Current overview 👀 </h1>
-<div align="left">
-<img  align="right" src="https://i.ibb.co/WvwcMHy/HRD-SAF.jpg" width="300" alt="Shahriar Ahmed"/>
-</div>
-
-#### 💫 I’m the Full-Stack Web Developer based JavaScript & TypeScript.
-#### 🔭 I’m working at my Project. 
-#### 🌱 I’m exploring - Next Level Technologies and Python. 
-#### 👨‍💻 All of my projects are available at [https://itszshahriar.web.app/](https://itszshahriar.web.app/)
-#### 📝 I regularly write articles on [https://itszshahriar.medium.com/](https://itszshahriar.medium.com/)
-#### 💬 Ask me about **JavaScript, TypeScript**
-#### 📫 How to reach me **itszshahriar@gmail.com**
-#### 👯 I’m looking - To collaborate on open source projects. 
-#### 🤔 I’m trying - To help people learn web developing. 
-#### ⚡ Fun fact - I know I am mad and my madness is my Power.
-
-<br/>
-
-<h1 align="center">💻Languages and Tools💻</h1>
-
-
- <p align="center"><img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itszshahriar&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Shahriar Ahmed"/>
 <br>
+
+## My Weapons 🌟
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itszshahriar&theme=react)](https://github.com/tidbitsjs/github-readme-stats)
+
+<br>
+
+## Other Shields 🛡
+
+<p align="left">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40" height="40"/> </a> &nbsp;
+    <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="React" width="40" height="40"/> </a> &nbsp; &nbsp;
+    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://iili.io/JSxdS7j.png" alt="Bootstrap" width="40" height="40"/> </a> &nbsp;  &nbsp;
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> &nbsp; &nbsp;
+    <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> &nbsp; &nbsp;
+    <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> &nbsp; &nbsp;
+    <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://mui.com/static/logo.png" alt="MUI" width="40" height="40"/> </a> &nbsp; &nbsp;
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> &nbsp; &nbsp;
+ <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/> </a> &nbsp; &nbsp;
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="TypeScript" width="40" height="40"/> </a> &nbsp; &nbsp;
+    <br />
+    <br />
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> &nbsp; &nbsp;
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> &nbsp; &nbsp;
+    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> &nbsp; &nbsp;
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> &nbsp; &nbsp;
+    <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/7552965?s=280&v=4" alt="mongodb" width="40" height="40"/> </a> &nbsp; &nbsp;
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> &nbsp; &nbsp;
+    <a href="https://prisma.io/" target="_blank" rel="noreferrer"> <img src="https://iili.io/JSop2EJ.png" alt="Prisma ORM" width="40" height="40"/> </a> &nbsp; &nbsp;
+    <a href="https://www.postgresql.com/" target="_blank" rel="noreferrer"> <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="40" height="40"/> </a> &nbsp; &nbsp;
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://iili.io/JSoD6y7.png" alt="MySQL" width="40" height="40"/> </a> &nbsp; &nbsp;
+    <a href="https://www.socket.io/" target="_blank" rel="noreferrer"> <img src="https://iili.io/JSxq2dF.png" alt="Socket.io" width="40" height="40"/> </a> &nbsp; &nbsp;
+    <br />
+    <br />
+    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" alt="AWS" width="40" height="40"/> </a> &nbsp; &nbsp;
+    <a href="https://digitalocean/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/DigitalOcean_logo.svg/2048px-DigitalOcean_logo.svg.png" alt="DigitalOcean" width="40" height="40"/> </a> &nbsp; &nbsp;
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://iili.io/JSxY8ml.png" alt="Docker" width="40" height="40"/> </a> &nbsp; &nbsp;
+    <a href="https://www.nginx.com/" target="_blank" rel="noreferrer"> <img src="https://iili.io/JSxayu4.png" alt="NGINX" width="40" height="40"/> </a> &nbsp; &nbsp;
+    <a href="https://www.vercel.com/" target="_blank" rel="noreferrer"> <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" alt="Vercel" width="40" height="40"/> </a> &nbsp; &nbsp;
+    <br />
+    <br />
+<!--     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> &nbsp; &nbsp; -->
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp; &nbsp;
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> &nbsp; &nbsp;
+</p>
+
+<br>
+
+ 
+## Github Status 🏆
+
+<img  src="https://github-stats-lemon.vercel.app/api?username=itszshahriar&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=itszshahriar&theme=react" width="48%" >
+<br>
+
+![github graph](https://github-readme-activity-graph.vercel.app/graph?username=itszshahriar&theme=react-dark)
+<br>
+
+<p align="center">Wanna Know me More?</p>
+
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/512px-HTML5_Badge.svg.png?20110131171049" width="55"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" width="55"/>
-<img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" width="55"/>
-<img src="https://viget.imgix.net/tailwind-on-gray.png?auto=format%2Ccompress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&ixlib=php-2.1.1&q=90&w=1200&s=d45cb3d7233ce6e0b46f131c660d5adb" width="55"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png"  width="55"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"  width="55"/>
- <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/psf/trademarks-faq/Python-logo-notext-rotate.png"  width="55"/>
-<img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png"  width="55"/>
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png"  width="55"/>
-<img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png"  width="55"/>
-<img src="https://w7.pngwing.com/pngs/429/921/png-transparent-mongodb-plain-wordmark-logo-icon.png"  width="55"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png"  width="55"/>
-</p><br/>
+ 
+<a href="https://facebook.com/shahriarspy" target="_blank">
+<img src="https://img.shields.io/badge/-Facebook-%233781de" alt="Twitter" /></a> 
 
-<h1 align="center">📊 GitHub Stats &  GitHub Trophies🏆</h1>
-<p align="center"><img width="450" src="https://github-readme-stats.vercel.app/api?username=itszshahriar&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" alt="Shahriar Ahmed"/> </p>
+<a href="https://x.com/shahriarspy" target="_blank">
+<img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
 
+<a href="https://www.instagram.com/shahriarspy" target="_blank">
+<img src="https://img.shields.io/badge/-Instagram-%23eb13a5" alt="Instagram" /></a>  
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=itszshahriar&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Shahriar Ahmed"/> </p>
+<a href="https://www.linkedin.com/in/shahriarspy/" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>
+    
+<a href="https://shahriarspy.medium.com/" target="_blank">
+<img src="https://img.shields.io/badge/-Medium-%2337817f" alt="Medium" /></a>  
 
+</p>
 
-
- <p align="center"><img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=itszshahriar&theme=gotham&hide_border=false" alt="Shahriar Ahmed"/> </p>
-
-<!-- <p align="center"><img width="450" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Shahriar Ahmed"/> </p>
- <p align="center"><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FourShahriar&s=40&c=ff00c8&bg=ffffff&no=7&ff=digii&tb=Profile++++++&ta=++++++++Visitors%21" alt="Shahriar Ahmed"/> </p>   -->
-
- <p align="center"><img src="https://visit-counter.vercel.app/counter.png?page=itszshahriar&s=40&c=00ff00&bg=00000000&no=7&ff=digi&tb=Views++++&ta=" alt="Shahriar Ahmed"/> </p>  
-
-
-
+<p align='center'>
+<img src="https://komarev.com/ghpvc/?username=itszhahriar&color=149eca&style=for-the-badge" alt='SHAHRIAR AHMED Profile view'/></p>
