@@ -2,7 +2,7 @@
 
 Nice to meet you, I'm SHAHRIAR AHMED sᴘʏ
 <br/>
-<img width="100%" src="https://i.ibb.co/qR2Nqhy/cover.jpg" alt="Shahriar Ahmed"/>
+<img width="100%" src="https://iili.io/JSxSTpR.jpg" alt="Shahriar Ahmed"/>
 
 ## Who Am I? 🤠
 
