@@ -10,7 +10,7 @@ Nice to meet you, I'm SHAHRIAR AHMED sᴘʏ
 - 👩‍💻 Working on Web & App Development 
 - 📝 Writing Words, Compiling Code
 - 🎯 Goal : To be a better Developer and Problem solver
-- 📫 How to reach me : [spy@ecoysoft.com](mailto:spy@ecoysoft.com)
+- 📫 How to reach me : [shahriar@ecoysoft.com](mailto:shahriar@ecoysoft.com)
 - 💌 Fun Facts : 
     - Loves food but can't' cook 🐼 
     - Overthinks thinking to not to overthink 🙂
@@ -20,7 +20,7 @@ Nice to meet you, I'm SHAHRIAR AHMED sᴘʏ
 
 ## My Weapons 🌟
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itszshahriar&theme=react)](https://github.com/tidbitsjs/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahriarspy&theme=react)](https://github.com/tidbitsjs/github-readme-stats)
 
 <br>
 
@@ -68,11 +68,11 @@ Nice to meet you, I'm SHAHRIAR AHMED sᴘʏ
  
 ## Github Status 🏆
 
-<img  src="https://github-stats-lemon.vercel.app/api?username=itszshahriar&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=itszshahriar&theme=react" width="48%" >
+<img  src="https://github-stats-lemon.vercel.app/api?username=shahriarspy&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=shahriarspy&theme=react" width="48%" >
 <br>
 
-![github graph](https://github-readme-activity-graph.vercel.app/graph?username=itszshahriar&theme=react-dark)
+![github graph](https://github-readme-activity-graph.vercel.app/graph?username=shahriarspy&theme=react-dark)
 <br>
 
 <p align="center">Wanna Know me More?</p>
