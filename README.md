@@ -20,7 +20,7 @@ Nice to meet you, I'm SHAHRIAR AHMED sᴘʏ
 
 ## My Weapons 🌟
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahriarspy&theme=react)](https://github.com/tidbitsjs/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahriarspy&theme=react)](https://github.com/shahriarspy/github-readme-stats)
 
 <br>
 
