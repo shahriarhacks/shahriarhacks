@@ -14,7 +14,7 @@ Nice to meet you, I'm SHAHRIAR AHMED sᴘʏ
 - 💌 Fun Facts : 
     - Loves food but can't' cook 🐼 
     - Overthinks thinking to not to overthink 🙂
-    - Hayat nedir, canım? ( Ahh, Learning Turkish out of curiosity ) 🙃
+    - Hayat nedir, canım? ( Ahh, Learning Rust out of curiosity ) 🙃
 
 <br>
 
