@@ -10,7 +10,7 @@ Nice to meet you, I'm SHAHRIAR AHMED sᴘʏ
 - 👩‍💻 Working on Web & App Development 
 - 📝 Writing Words, Compiling Code
 - 🎯 Goal : To be a better Developer and Problem solver
-- 📫 How to reach me : [shahriar@ecoysoft.com](mailto:shahriar@ecoysoft.com)
+- 📫 How to reach me : [shahriar@declives.com](mailto:shahriar@declives.com)
 - 💌 Fun Facts : 
     - Loves food but can't' cook 🐼 
     - Overthinks thinking to not to overthink 🙂
