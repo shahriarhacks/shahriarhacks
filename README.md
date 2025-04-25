@@ -91,7 +91,7 @@ Nice to meet you, I'm SHAHRIAR AHMED sᴘʏ
 <a href="https://www.linkedin.com/in/shahriaar-ahmed/" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>
     
-<a href="https://shahriarspy.medium.com/" target="_blank">
+<a href="https://shahriar-ahmed.medium.com/" target="_blank">
 <img src="https://img.shields.io/badge/-Medium-%2337817f" alt="Medium" /></a>  
 
 </p>
