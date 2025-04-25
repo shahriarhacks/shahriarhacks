@@ -79,16 +79,16 @@ Nice to meet you, I'm SHAHRIAR AHMED sᴘʏ
 
 <p align="center">
  
-<a href="https://facebook.com/shahriarhacks" target="_blank">
+<a href="https://facebook.com/shahriaar.ahmed" target="_blank">
 <img src="https://img.shields.io/badge/-Facebook-%233781de" alt="Twitter" /></a> 
 
-<a href="https://x.com/shahriarhacks" target="_blank">
+<a href="https://x.com/shahriaar_ahmed" target="_blank">
 <img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
 
-<a href="https://www.instagram.com/shahriarhacks" target="_blank">
+<a href="https://www.instagram.com/shahriaar.ahmed" target="_blank">
 <img src="https://img.shields.io/badge/-Instagram-%23eb13a5" alt="Instagram" /></a>  
 
-<a href="https://www.linkedin.com/in/shahriarhacks/" target="_blank">
+<a href="https://www.linkedin.com/in/shahriaar-ahmed/" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>
     
 <a href="https://shahriarspy.medium.com/" target="_blank">
