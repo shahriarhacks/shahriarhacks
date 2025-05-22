@@ -12,7 +12,7 @@ Nice to meet you, I'm SHAHRIAR AHMED sᴘʏ
 - 🎯 Goal : To be a better Developer and Problem solver
 - 📫 How to reach me : [shahriar@declives.com](mailto:shahriar@declives.com)
 - 💌 Fun Facts : 
-    - Loves food but can't' cook 🐼 
+    - Loves fun but can't' afford 🐼 
     - Overthinks thinking to not to overthink 🙂
     - Hayat nedir, canım? ( Ahh, Learning Rust out of curiosity ) 🙃
 
