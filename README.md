@@ -1,12 +1,11 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-Nice to meet you, I'm SHAHRIAR AHMED sᴘʏ
+Nice to meet you, I'm SHAHRIAR AHMED uv
 <br/>
-<img width="100%" src="https://iili.io/JSxSTpR.jpg" alt="Shahriar Ahmed"/>
 
 ## Who Am I? 🤠
 
-- 🤓 Self taught sᴘʏ Developer
+- 🤓 Self taught uv Developer
 - 👩‍💻 Working on Web & App Development 
 - 📝 Writing Words, Compiling Code
 - 🎯 Goal : To be a better Developer and Problem solver
