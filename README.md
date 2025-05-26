@@ -51,7 +51,7 @@ Nice to meet you, I'm SHAHRIAR AHMED uv
     <br />
     <br />
     <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" alt="AWS" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <a href="https://digitalocean/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/DigitalOcean_logo.svg/2048px-DigitalOcean_logo.svg.png" alt="DigitalOcean" width="40" height="40"/> </a> &nbsp; &nbsp;
+    <a href="https://digitalocean.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/DigitalOcean_logo.svg/2048px-DigitalOcean_logo.svg.png" alt="DigitalOcean" width="40" height="40"/> </a> &nbsp; &nbsp;
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://iili.io/JSxY8ml.png" alt="Docker" width="40" height="40"/> </a> &nbsp; &nbsp;
     <a href="https://www.nginx.com/" target="_blank" rel="noreferrer"> <img src="https://iili.io/JSxayu4.png" alt="NGINX" width="40" height="40"/> </a> &nbsp; &nbsp;
     <a href="https://www.vercel.com/" target="_blank" rel="noreferrer"> <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" alt="Vercel" width="40" height="40"/> </a> &nbsp; &nbsp;
