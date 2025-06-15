@@ -13,7 +13,7 @@ Nice to meet you, I'm SHAHRIAR AHMED uv
 - 💌 Fun Facts : 
     - Loves fun but can't' afford 🐼 
     - Overthinks thinking to not to overthink 🙂
-    - Hayat nedir, canım? ( Ahh, Learning Rust out of curiosity ) 🙃
+    - Hayat nedir, canım? ( Ahh, Learning Go out of curiosity ) 🙃
 
 <br>
 
